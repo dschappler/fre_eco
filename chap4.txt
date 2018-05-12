@@ -49,7 +49,15 @@ Engineering virality requires the placement of virality hooks within a product -
 Virality Metric:
     k-factor:  Average number of new users each user recruits into the product.
 Means that the viral effects of the product compound, or grow over time.
-    
+
+Using metrics in the freemium model
+Data can trump intuition only when it is readily available at the time decisions must be made
+Data infrastructure is an obvious prerequisite to data-driven product development, but an organizational emphasis on data is as important, if not more so. Each individual on the product team must acknowledge the importance of data in the freemium decision-making process in order for data to be leveraged to its utmost informative extent. Likewise, each member of the product team should be aware of how data can be accessed and be at least familiar with a product’s high-level metrics at any given point in time. Reporting is a critical operational requirement in the
+freemium development process, and the team must share enthusiasm and responsibility for taking full advantage of it.
+
+Interpreting data correctly in order to produce action points requires specific
+expertise; if that expertise is not present on a product team, then no collection of sophisticated tools, bespoke or not, can render data useful.
+
 
 
 
