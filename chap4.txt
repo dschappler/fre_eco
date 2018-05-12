@@ -43,6 +43,16 @@ Belief that customers are either promoters, extremely satisfied users who will s
 The net difference between these two groups, can effectively measure the loyalty of its user base.
 Single survey question that asks, “On a scale from 1 to 10, how likely are you to recommend this product to others?”
 
+Virality
+The extent to which products are distributed without any active marketing participation from a business.
+Engineering virality requires the placement of virality hooks within a product - mechanics or product features that connect to a third-party API and can broadcast an aspect of the user’s activity. The most common implementation of virality hooks is through social networks, where the user’s activity is broadcast to friends who, presumably, share similar interests with the user.
+Virality Metric:
+    k-factor:  Average number of new users each user recruits into the product.
+Means that the viral effects of the product compound, or grow over time.
+    
+
+
+
 
 
 
