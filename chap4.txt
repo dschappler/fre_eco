@@ -38,7 +38,12 @@ The onboarding funnel should be used to measure how well the use case is communi
 Session Metrics:
     Avg/Median Session Length
     Avg/Median Sessions per days
-Net Promoter Score (NPS):
+Net Promoter Score (NPS): Measure of customer loyalty
+Belief that customers are either promoters, extremely satisfied users who will serve as enthusiastic brand ambassadors as well as sources of key repeat revenue, or detractors, extremely dissatisfied users who will undermine brand growth by spreading unflattering testimony of a product experience. 
+The net difference between these two groups, can effectively measure the loyalty of its user base.
+Single survey question that asks, “On a scale from 1 to 10, how likely are you to recommend this product to others?”
+
+
 
 
 
