@@ -11,3 +11,20 @@ Retention Metrics:
     DAU (daily active users)
     DNU (daily new users)
     RetXd with X in {1,3,7,14,30,90,365}
+    
+Monetization
+PayConversion is a measure of monetization relative to the entire size of the user base.
+It is usually presented as a percentage of users who have made a purchase either up until a specific day or over the lifetime of a product
+PayConversion Metrics:
+    User2PayUserXd, WebsiteCVR_Xd with X in {0,2,6,13,30,90,365,all time}
+    
+Revenue Metrics:
+    ARPU_Xd
+    ARPPU_Xd
+    ABPU_Xd
+    ABPPU_Xd
+    ARPW_Xd
+    ARPPW_Xd
+    ARPS
+    ABPS
+    CLV_Xy
