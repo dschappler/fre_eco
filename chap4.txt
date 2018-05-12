@@ -1,1 +1,10 @@
 Freemium Metrics
+
+Retention
+Retention is a retroactive, time-based measure of product use.
+At the user level, retention metrics are binary indications (true/false) of whether or not a user returned to the product some specific number of days after first using it
+At the product level, retention metrics are aggregated across the user base
+The purpose of retention metrics is to track the frequency and longevity of product use
+The retention profile curve provides some guidance in the product development process when designing features to boost retention
+Higher retention corresponds to a better product experience, greater personal investment, and a higher level of fulfillment in the product’s fundamental use case.
+
